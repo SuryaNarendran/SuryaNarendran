@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I'm Surya! I'm an aspiring game developer who works mostly with Unity. Feel free to drop me a line if you have any questions or suggestions about my work
+Hey, I'm Surya! I'm an indie game developer who works mostly with Unity. Sharing tools and frameworks that make my daily work in Unity a little less agonizing. Feel free to reach out for a chat if you have any questions/feedback about my work!
